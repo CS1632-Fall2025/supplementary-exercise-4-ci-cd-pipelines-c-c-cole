@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>io.github.wonsunahn</groupId>
-  <artifactId>cs1632-cicd-pipelines-coe18</artifactId>
+  <artifactId>cs1632-cicd-pipelines-coe182</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
 
@@ -73,6 +73,12 @@
       <version>1.0.0</version>
       <systemPath>${pom.basedir}/rentacat-solution-1.0.0.jar</systemPath>
       <scope>system</scope>
+    </dependency>
+
+    <dependency>
+      <groupId>io.github.wonsunahn</groupId>
+      <artifactId>cs1632-cicd-pipelines-coe18</artifactId>
+      <version>1.0</version>
     </dependency>
 
   </dependencies>
