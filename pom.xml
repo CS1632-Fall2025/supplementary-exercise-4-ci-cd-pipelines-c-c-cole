@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>io.github.wonsunahn</groupId>
-  <artifactId>cs1632-cicd-pipelines-coe182</artifactId>
+  <artifactId>cs1632-cicd-pipelines-coe18</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
 
@@ -75,11 +75,6 @@
       <scope>system</scope>
     </dependency>
 
-    <dependency>
-      <groupId>io.github.wonsunahn</groupId>
-      <artifactId>cs1632-cicd-pipelines-coe18</artifactId>
-      <version>1.0</version>
-    </dependency>
 
   </dependencies>
 
